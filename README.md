@@ -2,6 +2,7 @@
 
 ### I’m currently learning in ISU in first kurs
 ### My technology stack:
+	![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 # ![Python](https://shields.io)
 # ![C++](https://shields.io)
 # ![Blender](https://shields.io)
